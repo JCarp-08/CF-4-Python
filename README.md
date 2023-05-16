@@ -10,3 +10,5 @@ Contains all of the Jupyter Notebook scripts relevant to the project and learnin
 Contains all of the visualizations created using Jupyter Notebook.
 ### 05. Sent to Client
 Conatains a final report with findings and insights.
+## Overview:
+This project scenario required the use of Python to analyze consumer trends for Instacart, a popular grocery delivery service.
